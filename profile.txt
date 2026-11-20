@@ -1,0 +1,3 @@
+name: Morimoto Koji
+favorite_language: Java
+goal: GitHubでPRを作れるようになる
